@@ -1,8 +1,6 @@
-# Chrome Extension Builder
+# Chrome Extension Generator
 
-# Chrome Extension Builder
-
-Chrome Extension Builder is a command-line tool that simplifies the process of creating a basic structure for Chrome extensions. It generates a skeleton project with essential files and configurations, allowing developers to quickly start building their Chrome extensions.
+Chrome Extension Generator is a command-line tool that simplifies the process of creating a basic structure for Chrome extensions. It generates a skeleton project with essential files and configurations, allowing developers to quickly start building their Chrome extensions.
 
 ## Author
 
@@ -15,22 +13,22 @@ Keith I Myers
 
 For detailed information on how to use and extend your Chrome extension, please visit our comprehensive guide:
 
-[Chrome Extension Development Guide](https://chromeos.guide/ChromeOS-Guide/Development/Chrome-Extension-Development/Chrome-Extension-Builder)
+[Chrome Extension Development Guide](https://chromeos.guide/ChromeOS-Guide/Development/Chrome-Extension-Development/)
 
 ## Basic Usage
 
-To use the Chrome Extension Builder, follow these steps:
+To use the Chrome Extension Generator, follow these steps:
 
 1. Install the package globally:
 
 ```
-npm install -g chrome-extension-builder
+npm install -g chrome-extension-generator
 ```
 
 2. Run the builder:
    
 ```
-chrome-extension-builder
+chrome-extension-generator
 ```
 
 
