@@ -22,7 +22,7 @@ To use the Chrome Extension Generator, follow these steps:
 1. Install the package globally:
 
 ```
-npm install -g chrome-extension-generator
+sudo npm install -g chrome-extension-generator
 ```
 
 2. Run the builder:
